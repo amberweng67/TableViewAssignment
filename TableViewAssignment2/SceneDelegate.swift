@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  TableViewAssignment2
 //
-//  Created by Hanchi Zhang on 9/25/21.
+//  Created by Liuning Weng on 9/25/21.
 //
 
 import UIKit
